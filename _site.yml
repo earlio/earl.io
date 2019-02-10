@@ -1,0 +1,9 @@
+name: "earl.io"
+output_dir: "docs"
+navbar:
+  title: "earl.io"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
