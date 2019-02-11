@@ -1,0 +1,6 @@
+reading bookdown.org
+
+setup documentation should include:
+- screenshot of settings that make R Studio project-based
+- .gitignore file
+

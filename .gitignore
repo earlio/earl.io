@@ -36,10 +36,10 @@ vignettes/*.pdf
 .Rproj.user
 
 # Output data
-*.Rda
-*.pdf
-*.csv
-*.html
+#*.Rda
+#*.pdf
+#*.csv
+#*.html
 
 # I'm not sure if this part works yet
 #/*_output/*

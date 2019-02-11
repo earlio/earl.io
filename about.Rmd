@@ -1,5 +1,10 @@
 ---
-title: "About This Website"
+title: "About"
 ---
 
-More about this website.
+I'm Earl Zedd, graduating this May with a BS in Mathematics (Option in Statistics) and a minor in Computer Science. I'm on [LinkedIn](https://linkedin.com/in/earlzedd/)!
+
+
+This site is for information I want to share (specially with my future self).
+
+
