@@ -1,5 +1,9 @@
 ---
 title: "About"
+output: 
+  html_document:
+    includes:
+       in_header: analytics.html
 ---
 
 I'm Earl Zedd, graduating this May with a BS in Mathematics (Option in Statistics) and a minor in Computer Science. I'm on [LinkedIn](https://linkedin.com/in/earlzedd/)!

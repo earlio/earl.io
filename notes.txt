@@ -4,3 +4,4 @@ setup documentation should include:
 - screenshot of settings that make R Studio project-based
 - .gitignore file
 
+fix formatting of CNAME file
