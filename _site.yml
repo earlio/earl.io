@@ -1,5 +1,11 @@
 name: "earl.io"
+
 output_dir: "docs"
+output: 
+  html_document:
+    includes:
+       in_header: analytics.html
+       
 navbar:
   title: "earl.io"
   left:

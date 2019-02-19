@@ -1,9 +1,5 @@
 ---
 title: "Projects"
-output: 
-  html_document:
-    includes:
-       in_header: analytics.html
 ---
 
 

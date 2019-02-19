@@ -1,9 +1,5 @@
 ---
 title: "Welcome"
-output: 
-  html_document:
-    includes:
-       in_header: analytics.html
 ---
 
 This is a remodeled version of my personal website, with more content to come.
